@@ -1,4 +1,4 @@
-# 🛒 Gestão de Compras
+# 🛒 OptiCart: Lista de Compras
 
 Projeto de sistema de compras (Android + Web + DB).
 
